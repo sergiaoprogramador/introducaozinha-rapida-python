@@ -7,7 +7,8 @@ total_tentativas = 3
 rodada = 1
 
 while(rodada <= total_tentativas):
-    print("Tentativa", rodada, "de", total_tentativas)
+    # String interpolation
+    print("Tentativa {} de {}".format(rodada, total_tentativas))
     chute_str = input("Digite o seu numero: ")
 
     print("Você digitou ", chute_str)
