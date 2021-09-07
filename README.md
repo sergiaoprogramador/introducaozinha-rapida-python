@@ -1,4 +1,4 @@
-# introducaozinha-rapida-python
+# Introdução aos conceitos básicos de Algoritmos em Python
 Estudando o basico pra me encontrar na sintaxe python
 
 
