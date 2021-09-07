@@ -9,8 +9,8 @@ rodada = 1
 while(rodada <= total_tentativas):
     # String interpolation
     print("Tentativa {} de {}".format(rodada, total_tentativas))
-    chute_str = input("Digite o seu numero: ")
 
+    chute_str = input("Digite o seu numero: ")
     print("Você digitou ", chute_str)
     chute = int(chute_str)
 
